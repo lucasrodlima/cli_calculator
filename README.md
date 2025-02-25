@@ -35,18 +35,18 @@ How to Use
 
 Example
 
-  Enter a number:
-  5
-  Enter another number:
-  3
-  1. Add
-  2. Subtract
-  3. Multiply
-  4. Divide
-  Select an operation by typing a number.
-  1
-  Result is: 8.0
-  Type 0 to quit the application or press Enter to continue.
+      Enter a number:
+      5
+      Enter another number:
+      3
+      1. Add
+      2. Subtract
+      3. Multiply
+      4. Divide
+      Select an operation by typing a number.
+      1
+      Result is: 8.0
+      Type 0 to quit the application or press Enter to continue.
 
 Code Overview
 
