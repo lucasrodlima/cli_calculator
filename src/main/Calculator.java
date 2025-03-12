@@ -4,15 +4,15 @@ import java.util.Scanner;
 
 public class Calculator {
     public static void main(String[] args) {
-        float num1, num2, result = 0;
+        double num1, num2, result = 0;
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
             System.out.println("Enter a number:");
-            num1 = scanner.nextFloat();
+            num1 = scanner.nextDouble();
 
             System.out.println("Enter another number:");
-            num2 = scanner.nextFloat();
+            num2 = scanner.nextDouble();
 
             System.out.println("1. Add");
             System.out.println("2. Subtract");
